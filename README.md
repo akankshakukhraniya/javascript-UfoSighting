@@ -1,4 +1,4 @@
-# javascript-challenge
+# javascript-UFO-Sighting
 # JavaScript and DOM Manipulation
 
 ## Background
